@@ -34,6 +34,7 @@ Acesse o NightCafe e faça login ou crie uma conta. Clique em "Create" ou "Creat
 
 ## 🚀 Resultados
 
+Foto gerada: https://github.com/Thiago-Alvees/lab-natty-or-not/blob/main/GYXfCkQhMOjXmIxRvkL0--1--nxop8.jpg
 
 ## 💭 Reflexão (Opcional)
 Apesar de a imagem gerada pela IA ficar muito próxima do real, é possível identificar que se trata de uma criação artificial devido à ausência de pequenos detalhes que fazem toda a diferença. Elementos sutis, como texturas precisas, reflexos naturais e variações minuciosas nas superfícies, que são características intrínsecas de uma fotografia real, frequentemente não são capturados com a mesma fidelidade. Esses aspectos revelam que, apesar do impressionante avanço tecnológico, a distinção entre o que é real e o que é artificial ainda pode ser percebida.
