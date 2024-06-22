@@ -10,9 +10,9 @@ IA: nightcafe
 
 Acesse o NightCafe e faça login ou crie uma conta. Clique em "Create" ou "Create New" para iniciar um projeto. Selecione "Stable Diffusion" para obter imagens realistas. Escolha o estilo "Photorealistic" e ajuste para alta resolução. Insira uma descrição detalhada, como “Ferrari 488 vermelha, vista frontal, em ambiente urbano”. Clique em "Create" e aguarde a geração da imagem. Revise o resultado, ajuste a descrição se necessário e gere novamente. Baixe a imagem quando estiver satisfeito. Compare a imagem gerada com fotos reais da Ferrari 488 para avaliar o realismo.
 
-## 🚀 Resultados
+## 🚀 Resultado
 
-Foto gerada: <a>https://github.com/Thiago-Alvees/lab-natty-or-not/blob/main/GYXfCkQhMOjXmIxRvkL0--1--nxop8.jpg<a/>
+<a href="https://github.com/Thiago-Alvees/lab-natty-or-not/blob/main/GYXfCkQhMOjXmIxRvkL0--1--nxop8.jpg">Resultado<a/>
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Apesar de a imagem gerada pela IA ficar muito próxima do real, é possível identificar que se trata de uma criação artificial devido à ausência de pequenos detalhes que fazem toda a diferença. Elementos sutis, como texturas precisas, reflexos naturais e variações minuciosas nas superfícies, que são características intrínsecas de uma fotografia real, frequentemente não são capturados com a mesma fidelidade. Esses aspectos revelam que, apesar do impressionante avanço tecnológico, a distinção entre o que é real e o que é artificial ainda pode ser percebida.
